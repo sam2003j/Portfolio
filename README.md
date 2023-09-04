@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my Portfolio documentation! You can check this website live on [SAMIKSHA_JAMANKAR](https://sortingvisualizer20.netlify.app/).
+Welcome to my Portfolio documentation! You can check this website live on [SAMIKSHA_JAMANKAR](https://samiksha-jamankar.netlify.app/).
 
 ## Table of Contents
 
